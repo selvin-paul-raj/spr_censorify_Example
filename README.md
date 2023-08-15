@@ -3,7 +3,7 @@
 
 # SPR_Censorify_Example
 
-> Write a project description
+> Enhance content integrity using CustomCensorify: a JavaScript module. Efficiently replace sensitive words for respectful communication. Code and example included.
 
 ## Prerequisites
 
@@ -29,8 +29,8 @@ These instructions will get you a copy of the project up and running on your loc
 Start with cloning this repo on your local machine:
 
 ```sh
-$ git clone https://github.com/ORG/PROJECT.git
-$ cd PROJECT
+$ git clone https://github.com/SPRHackz/spr_censorify_Example.git
+$ cd spr_censorify_Example
 ```
 
 To install and set up the library, run:
