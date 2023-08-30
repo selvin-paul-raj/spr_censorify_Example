@@ -36,13 +36,13 @@ $ cd spr_censorify_Example
 To install and set up the library, run:
 
 ```sh
-$ npm install spr-censorify
+$ npm install sprhackz-censorify
 ```
 
 Or if you prefer using Yarn:
 
 ```sh
-$ yarn add spr_censorify
+$ yarn add sprhackz-censorify
 ```
 
 ## Usage
