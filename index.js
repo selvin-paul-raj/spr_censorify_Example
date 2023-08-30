@@ -1,5 +1,5 @@
-// To Install package `npm i spr-censorify`
-var censor = require("spr-censorify"); // To Import The Package
+// To Install package `npm i sprhackz-censorify`
+var censor = require("sprhackz-censorify"); // To Import The Package
 
 console.log("\n PreDefine  Censored Words : ");
 console.log(censor.getCensoredWords());
